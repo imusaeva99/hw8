@@ -1,2 +1,3 @@
 # hw8
-Gephi graphs
+
+Ссылка на граф: https://imusaeva99.github.io/hw8/
